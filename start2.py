@@ -1,6 +1,5 @@
 import streamlit as st
-import sqlite3
-import search
+
 
 st.set_page_config(layout="wide")
 st.title("전자의료센터")
